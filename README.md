@@ -1,3 +1,3 @@
 # hello-world
-Starting tutorial<br>
+Starting tutorial
 Sample readme for programming 1 class
