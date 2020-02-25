@@ -1,3 +1,3 @@
 # hello-world
-Starting tutorial
-Sammple readme for programming 1 class
+Starting tutorial<br>
+Sample readme for programming 1 class
